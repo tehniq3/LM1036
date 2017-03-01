@@ -12,10 +12,10 @@
 #define pinmin 5
 #define pinpls 6
 
-byte volum=15;
-byte balans=127;   // balans la jumate
-byte bas=127;
-byte inalte=127;
+int volum=15;
+int balans=127;   // balans la jumate
+int bas=127;
+int inalte=127;
 
 byte nivel = 0; // 0 - functionare normala
                 // > 0 modificare valori
